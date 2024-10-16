@@ -11,7 +11,7 @@
 <body>
     <h1>MySQL 연결 드라이버 테스트</h1>
     <%
-        String jdbcUrl = "jdbc:mysql://localhost:3306/world";
+        String jdbcUrl = "jdbc:mysql://10.10.10.200:3306/pratice_board";
         String dbId = "root";
         String dbPwd = "root";
 
